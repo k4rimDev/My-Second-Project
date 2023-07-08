@@ -1,0 +1,11 @@
+.hello-div {
+    color: red;
+    background-color: blue;
+}
+
+#how-are-you-div {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #00ff00;
+    background-color: blueviolet;
+}
